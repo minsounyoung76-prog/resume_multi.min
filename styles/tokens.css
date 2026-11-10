@@ -1,0 +1,45 @@
+/* Generated from content/design.json. */
+:root {
+  --color-canvas: #F7F5EF;
+  --color-surface: #FFFFFF;
+  --color-soft: #E8EFEB;
+  --color-ink: #243530;
+  --color-muted: #53655E;
+  --color-primary: #236557;
+  --color-primary-hover: #194D42;
+  --color-on-primary: #FFFFFF;
+  --color-border: #CCD7D0;
+  --color-focus: #236557;
+  --layout-max-width: 1120px;
+  --layout-mobile-padding: 20px;
+  --layout-desktop-padding: 32px;
+  --layout-mobile-breakpoint: 768px;
+  --layout-desktop-section-gap: 88px;
+  --layout-mobile-section-gap: 56px;
+  --layout-card-gap: 24px;
+  --layout-card-radius: 16px;
+  --layout-min-target-size: 44px;
+  --layout-portrait-max-width: 300px;
+  --layout-video-max-width: 300px;
+  --font-hero-desktop: 44px;
+  --font-hero-mobile: 30px;
+  --font-section-desktop: 30px;
+  --font-section-mobile: 26px;
+  --font-card-title: 20px;
+  --font-body: 16px;
+  --font-caption: 14px;
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-40: 40px;
+  --space-56: 56px;
+  --space-64: 64px;
+  --space-88: 88px;
+  --font-family: "맑은 고딕", "Malgun Gothic", "Apple SD Gothic Neo", system-ui, sans-serif;
+  --line-height-body: 1.75;
+  --motion-hover: 150ms;
+}

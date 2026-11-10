@@ -1,0 +1,244 @@
+{
+  "profile": {
+    "name": "민순영",
+    "headline": "행정 업무부터 콘텐츠 제작까지, AI를 실무에 활용하는 민순영입니다.",
+    "bio": "물류 행정, 초등학생 학습 지도, 지역 홍보 영상 제작을 경험했습니다. AI를 활용한 행정 업무와 다양한 디지털 콘텐츠 제작으로 역량을 넓혀가고 있습니다.",
+    "photoAlt": "민순영의 이력서 사진",
+    "priorities": [
+      "업무 효율화",
+      "콘텐츠 제작",
+      "디지털 학습"
+    ],
+    "photo": "media/profile/min-sunyoung.webp"
+  },
+  "aiUseCases": [
+    {
+      "id": "tables",
+      "title": "자료를 표로 정리하기",
+      "task": "날짜·상품명·단위·수량·단가·금액·누적합계 항목으로 자료 정리를 요청합니다.",
+      "benefit": "필요한 항목을 지정해 표 형태로 정리합니다."
+    },
+    {
+      "id": "calculations",
+      "title": "금액·누적합계 계산하기",
+      "task": "자료의 수량과 단가를 바탕으로 금액과 누적합계 계산을 요청합니다.",
+      "benefit": "표 정리와 계산 작업을 연결합니다."
+    },
+    {
+      "id": "drafting",
+      "title": "공문·보고서 초안 작성하기",
+      "task": "목적과 필요한 내용을 전달해 문서 초안을 요청합니다.",
+      "benefit": "초안을 바탕으로 내용을 검토하고 수정합니다."
+    },
+    {
+      "id": "minutes",
+      "title": "회의록 요약하기",
+      "task": "회의 내용을 정리하고 요약하도록 요청합니다.",
+      "benefit": "회의 내용을 간추려 확인합니다."
+    }
+  ],
+  "works": [
+    {
+      "id": "animal-learning",
+      "title": "동물사랑배움터 교육 안내",
+      "kind": "website",
+      "description": "동물 관련 온라인 교육을 안내하는 웹페이지입니다.",
+      "url": "https://animal-learning-2027-sj.acutesage1.chatgpt.site/",
+      "tools": [],
+      "thumbnail": "media/works/animal-learning.webp"
+    },
+    {
+      "id": "sleep-cards",
+      "title": "불면증 인지행동치료 카드뉴스",
+      "kind": "cards",
+      "description": "기상 시간, 졸릴 때 눕기, 걱정 기록 등 수면 실천 내용을 정리한 5장 카드뉴스입니다.",
+      "url": "https://www.instagram.com/p/DfWLQaRiWcL/",
+      "tools": [],
+      "thumbnail": "media/works/sleep-cards.webp"
+    },
+    {
+      "id": "thumbnails",
+      "title": "유튜브 썸네일 만들기",
+      "kind": "automation",
+      "description": "글씨체·색상·배치를 정한 샘플을 바탕으로 나머지 썸네일 제작을 요청한 실습입니다.",
+      "url": "https://padlet.com/funnysugar01/ai-s024nmceeoqxllshju1p/wish/MbejW1KeOblAQNkG",
+      "tools": [],
+      "thumbnail": "media/works/thumbnails.webp"
+    },
+    {
+      "id": "news",
+      "title": "50대 관심 분야 뉴스 인포그래픽",
+      "kind": "infographic",
+      "description": "주식·부동산·교육·복지 관련 뉴스를 정리한 인포그래픽입니다.",
+      "url": "https://padlet.com/funnysugar01/ai-s024nmceeoqxllshju1p/wish/kxodWG9qKkDkQgP7",
+      "tools": [],
+      "thumbnail": "media/works/news.webp"
+    },
+    {
+      "id": "subway",
+      "title": "서울 지하철 알쓸신비",
+      "kind": "video",
+      "description": "지하철의 운행 방향과 진입 소리에 관한 정보를 자막과 그래픽으로 전달하는 세로 영상입니다.",
+      "url": "https://www.youtube.com/shorts/5jyjoYZbxdk",
+      "durationSeconds": 57.7,
+      "width": 720,
+      "height": 1280,
+      "tools": [
+        "Gemini",
+        "CapCut"
+      ],
+      "role": "기획·촬영·편집",
+      "thumbnail": "media/works/subway-poster.webp",
+      "video": "media/videos/subway.mp4"
+    },
+    {
+      "id": "yangcheon",
+      "title": "양천원픽",
+      "kind": "video",
+      "description": "월정로·신영시장과 신트리공원을 둘러보며 지역의 장소를 소개하는 세로 영상입니다.",
+      "url": "https://www.youtube.com/shorts/c19P379la9w",
+      "durationSeconds": 59.05,
+      "width": 720,
+      "height": 1280,
+      "tools": [
+        "Gemini"
+      ],
+      "role": "기획·촬영·편집",
+      "thumbnail": "media/works/yangcheon-poster.webp",
+      "video": "media/videos/yangcheon.mp4"
+    }
+  ],
+  "experience": [
+    {
+      "period": "2024.02–2026.02",
+      "organization": "이마트 양재점 내 수족관",
+      "position": "사원",
+      "description": "수족관 내 소동물·제품 판매 및 상담"
+    },
+    {
+      "period": "2023.03–2024.02",
+      "organization": "인천 봉수초등학교",
+      "position": "강사",
+      "description": "초등학생 안전 및 영어 학습 지도"
+    },
+    {
+      "period": "2022",
+      "organization": "양천구청",
+      "position": "양천구민 영상크리에이터",
+      "description": "양천구 구정 및 지역 시설 홍보 영상 제작"
+    },
+    {
+      "period": "2011.08–2012.11",
+      "organization": "㈜스타국제종합물류",
+      "position": "대리",
+      "description": "해상·항공 수출입 물류 행정"
+    },
+    {
+      "period": "2009.09–2010.06",
+      "organization": "그린항공해운㈜",
+      "position": "대리",
+      "description": "해상·항공 수출입 물류 행정"
+    },
+    {
+      "period": "2008.03–2009.02",
+      "organization": "로이드해운㈜",
+      "position": "사원",
+      "description": "해상·항공 수출입 물류 행정"
+    },
+    {
+      "period": "2007.01–2008.01",
+      "organization": "엑심익스프레스㈜",
+      "position": "사원",
+      "description": "해상·항공 수출입 물류 행정"
+    },
+    {
+      "period": "2003.09–2006.06",
+      "organization": "㈜보고인터내셔널",
+      "position": "대리",
+      "description": "해상·항공 수출입 물류 행정"
+    }
+  ],
+  "socialWelfare": [
+    {
+      "period": "2016.02–2016.05",
+      "organization": "양천노인복지센터",
+      "description": "사회복지사 실습 과정"
+    },
+    {
+      "period": "2018",
+      "organization": "신목종합복지관",
+      "description": "복지관 행사 캘리그라피 재능기부 봉사"
+    },
+    {
+      "organization": "신정종합복지관",
+      "description": "AI 어벤져스 동아리의 AI코딩 학습지도 나눔 활동"
+    }
+  ],
+  "qualifications": [
+    {
+      "name": "AI-POT(AI프롬프트활용능력)",
+      "grade": "2급"
+    },
+    {
+      "name": "사회복지사",
+      "grade": "2급"
+    },
+    {
+      "name": "자동차운전면허",
+      "grade": "2종보통"
+    },
+    {
+      "name": "컴퓨터활용능력",
+      "grade": "2급"
+    },
+    {
+      "name": "사무자동화산업기사",
+      "grade": "산업기사"
+    },
+    {
+      "name": "정보처리기사",
+      "grade": "기사"
+    },
+    {
+      "name": "캘리그라피지도사",
+      "grade": "1급"
+    },
+    {
+      "name": "정리수납컨설턴트",
+      "grade": "2급"
+    },
+    {
+      "name": "무역영어",
+      "grade": "2급"
+    }
+  ],
+  "education": [
+    {
+      "period": "2026.06–2026.07",
+      "organization": "서부여성발전센터",
+      "name": "AI 기반 디지털 행정 멀티사무원 과정"
+    },
+    {
+      "period": "2021.07–2021.10",
+      "organization": "구로여성인력개발센터",
+      "name": "영상 컨텐츠 제작자 과정"
+    },
+    {
+      "period": "2016.02–2016.05",
+      "organization": "양천노인복지센터",
+      "name": "사회복지사 실습 과정"
+    }
+  ],
+  "volunteering": [
+    {
+      "period": "2022–2024",
+      "organization": "양천구평생학습관",
+      "description": "AI 어벤져스 학습 동아리 운영 및 재능기부 봉사"
+    },
+    {
+      "period": "2018",
+      "organization": "신목종합복지관",
+      "description": "복지관 행사 캘리그라피 재능기부 봉사"
+    }
+  ]
+}
